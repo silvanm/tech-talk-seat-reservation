@@ -2,6 +2,8 @@
 
 A simple, interactive web application for reserving seats at tech talks or similar events. This application provides a visual seating plan where users can select and reserve seats.
 
+This application was created as a demo during the 9 Tech Talk, showcasing what Cline (an AI assistant) can do.
+
 ## Features
 
 - Interactive seating plan with 3 rows and 15 seats per row
